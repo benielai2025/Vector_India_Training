@@ -1,1 +1,1 @@
-This folder contains ARM mini project source code and documentation.
+MINI PROJECT – HI-TECH AGRI AUTOMATION SYSTEM
