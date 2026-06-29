@@ -1,1 +1,1 @@
-This folder contains the ARM main project source code and documentation.
+MAIN PROJECT – CAN-ENABLED SMART SAFETY MONITORING SYSTEM
